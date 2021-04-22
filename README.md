@@ -1,7 +1,7 @@
 # auto-WWE
 
-[![GitHub top language](https://img.shields.io/github/languages/top/m4lal0/winCustom?logo=powershell&style=flat-square)](#)
-[![GitHub repo size](https://img.shields.io/github/repo-size/m4lal0/winCustom?logo=webpack&style=flat-square)](#)
+[![GitHub top language](https://img.shields.io/github/languages/top/m4lal0/auto-WWE?logo=powershell&style=flat-square)](#)
+[![GitHub repo size](https://img.shields.io/github/repo-size/m4lal0/auto-WWE?logo=webpack&style=flat-square)](#)
 [![Windows 10 Supported](https://img.shields.io/badge/Windows_10-Supported-blue?style=flat-square&logo=windows)](#)
 [![By](https://img.shields.io/badge/By-m4lal0-green?style=flat-square&logo=github)](#)
 
